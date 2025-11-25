@@ -1,7 +1,6 @@
 # Guía completa y actualizada de Instalación de Odoo en Local (2025)
 
-Este repositorio contiene una guía técnica, moderna y reproducible para instalar **cualquier versión de Odoo**
-(10 → 18 o master) en entornos Linux (Ubuntu/Debian).  
+Este repositorio contiene una guía técnica, moderna y reproducible para instalar **cualquier versión de Odoo** en entornos Linux (Ubuntu/Debian).  
 El documento está diseñado siguiendo **estándares profesionales**, utilizando buenas prácticas para despliegues:
 
 - Usuario del sistema dedicado  
